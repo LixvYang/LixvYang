@@ -1,18 +1,27 @@
-### Hi there 👋
+### Hi there 👋,I'm Lixin yang.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YLX621&hide=stars&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[Blog](https://ylx621.github.io/)
 
-<!--
-**YLX621/YLX621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 2024 college student from North University of China.I will record some interesting stuff that happened around me and show my method.
+
+The main skill is the back-end direction, and the front-end is also involved. Love golang.
+
+Always pay attention to cutting-edge technologies, and be curious and learning about all new tools and technologies
+
+There is only one occupation in a lifetime:Student.
+
+My life curve.
+
+![](https://ri.firesbox.com/images/coverimage.gif)
+
+More:
+
+- 🌱 I’m currently learning golang.
+- 🤔 I’m looking for help with web develop.
+- 💬 Ask me about golang,javascript and any insteresting stuff.
+- 📫 How to reach me: [@yanglixin](https://www.zhihu.com/people/li-xin-32-2)
+- 😄 Pronouns: Xin
+- ⚡ Fun fact: I have a fitness habit when I'm not on my devices. Do you want to touch my chest muscles?
+
