@@ -5,7 +5,7 @@
 [Zhihu](https://www.zhihu.com/people/li-xin-32-2)
 
 
-I'm a 2024 college student from North University of China.I will record some interesting stuff that happened around me and show my method.
+I'm a 2020 college student from North University of China.I will record some interesting stuff that happened around me and show my method.
 
 The main skill is the back-end direction, and the front-end is also involved. Love golang.
 
