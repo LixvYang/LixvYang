@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm Lixin.
 
-[Blog](https://ylx621.github.io/)
+[Blog](https://lixvyang.github.io/)
 
 [Zhihu](https://www.zhihu.com/people/li-xin-32-2)
 
